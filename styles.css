@@ -1,0 +1,23 @@
+body {
+    margin: 0 auto;
+    width: 320px;
+    padding: 10px;
+    border: 1.5px solid rgba(180, 187, 192);
+    box-shadow: 10px 10px lightgray;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.center {
+    margin: 10px;
+}
+
+.border{
+    border: 1.5px solid rgb(180, 187, 192);
+    margin-top: 20px;
+    padding: 5%;
+}
